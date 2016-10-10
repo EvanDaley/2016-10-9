@@ -1,3 +1,7 @@
+Change title to capsule fight vol 3
+Change date in intro
+Fix dialogue 2
+
 Create weapons
 Create path for movement
 Create enemies
@@ -17,3 +21,6 @@ add - enemy health
 create popup where user clicks to move or attack
 don't make the user keep clicking. once they have clicked on an enemy the attacks happen automatically
 create explicit training for the player
+
+Create a tool for rapidly dropping grass, plants, etc
+Create grass, plants, with as few polygons as possible
